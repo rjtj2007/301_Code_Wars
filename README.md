@@ -1,7 +1,7 @@
 # 301_Code_Wars
 Code Wars Challenges for 301n9
 
-##replace-all-dots Challenge
+##My Head is at the Wrong End
 [link]
-(https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript)
+(https://www.codewars.com/kata/my-head-is-at-the-wrong-end/train/javascript)
 Partner Chris Lesesne and Ryan Johnson
