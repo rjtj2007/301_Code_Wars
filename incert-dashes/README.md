@@ -3,4 +3,4 @@ Code Wars Challenges for 301n9
 
 ##problem domain
 
-[link] ()
+[Code Wars link](https://www.codewars.com/kata/insert-dashes/train/javascript)
