@@ -4,4 +4,4 @@ Code Wars Challenges for 301n9
 ##Alternate Capitalization
 [link]
 ()
-)Ariel Altarasand Ryan Johnson
+Ariel Altarasand Ryan Johnson
