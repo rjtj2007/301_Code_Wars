@@ -1,11 +1,18 @@
-function abbrevName(name){
-  var toUpper = name.toUpperCase();
-  var names = toUpper.split(" ");
-  var firstName = names[0];
-  var lastName = names[1];
-  var firstNameInitials = firstName.split("");
-  var lastNameInitials = lastName.split("");
-  var firstInitial = firstNameInitials[0];
-  var lastInitial = lastNameInitials[0];
-  return firstInitial + '.' + lastInitial;
-}
+function capitalize(s){
+  let str = s.split('');
+  let even = str.map((chr, index) =>{
+    if (index % 2 === 0){
+      return chr.toUpperCase();
+    }else{
+      return chr;
+    }
+  })
+    let odd = str.map((chr, index) =>{
+    if (index % 2 !== 0){
+      return chr.toUpperCase();
+    }else{
+      return chr;
+    }
+  })
+  return [even.join(''), odd.join('')];
+};
