@@ -8,3 +8,5 @@ Use map() to double the values in an array
 
 ##Contributers
 Ryan Johnson, Ariel Altaras and Trevor Dobson
+
+Double-Values    https://github.com/rjtj2007/301_Code_Wars/pull/13
